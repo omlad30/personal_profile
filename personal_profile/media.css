@@ -1,0 +1,16 @@
+@media only screen and (min-width: 200px) and(max-width: 557px){
+  .info{
+    font-size: 30px;
+   }
+    
+}
+@media (min-width: 992px) {
+  .text-lg-start {
+      text-align: left !important;
+  }
+}
+@media (min-width: 1400px) {
+    .container, .container-lg, .container-md,.container-sm,.container-xl,.container-xxl{
+        max-width: 1170px;   
+    }
+}
